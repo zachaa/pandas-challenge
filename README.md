@@ -1,7 +1,14 @@
-# PyCitySchools
+# Challenge 4 - Pandas
 
-## Analysis
-The data clearly shows that overall school size has a significant effect on passing rates. Small and medium sized schools have an overall passing rate of about 90% while large schools have a passing rate of about 58%.
+This repo contains a jupyter notebook for analyzing high school passing rates by a variety of methods including school size, budget, and school type.
+
+## PyCitySchools
+
+The data from two csv files is imported and analyzed in [PyCitySchools_main.ipynb](/PyCitySchools/PyCitySchools_main.ipynb). The below analysis is also included at the start of the notebook.
+
+### Analysis
+
+The data shows that overall, school size has a significant effect on passing rates. Small and medium sized schools have an overall passing rate of about 90% while large schools have a passing rate of about 58%.
 
 From the analysis of the data we can see that spending more money per student does not improve test scores or passing rates. The data shows that the higher per student spending corresponds with a lower overall passing rate.
 
